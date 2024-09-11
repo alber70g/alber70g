@@ -1,8 +1,8 @@
 <a href="https://github.com/alber70g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alber70g&show_icons=true&count_private=true&hide=css,pact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alber70g&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/alber70g">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alber70g&cache_seconds=1800&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alber70g&cache_seconds=1800&layout=compact&hide=css,pact" />
 </a>
 
 [![Ortum](https://github-readme-stats.vercel.app/api/pin/?username=alber70g&repo=ortum)](https://github.com/alber70g/ortum)
