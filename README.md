@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alber70g&cache_seconds=1800&layout=compact&hide=css" />
 </a> -->
 
-[![Alber70g Profile](https://github.com/user-attachments/assets/80dc7f6f-3365-4c92-ad43-2c928a52d6fc)](https://github.com/alber70g/)
+<!-- [![Alber70g Profile](https://github.com/user-attachments/assets/80dc7f6f-3365-4c92-ad43-2c928a52d6fc)](https://github.com/alber70g/) -->
 
 [![SpacesBar](https://github.com/user-attachments/assets/9c412e75-67b4-4f73-8e20-7a62adc1339f)](https://github.com/alber70g/spacesbar)
 
